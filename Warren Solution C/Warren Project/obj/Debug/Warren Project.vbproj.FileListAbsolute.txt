@@ -1,0 +1,22 @@
+C:\Users\Becky\Documents\VB2015\Chap01\Warren Solution\Warren Project\bin\Debug\Warren.exe.config
+C:\Users\Becky\Documents\VB2015\Chap01\Warren Solution\Warren Project\bin\Debug\Warren.exe
+C:\Users\Becky\Documents\VB2015\Chap01\Warren Solution\Warren Project\bin\Debug\Warren.pdb
+C:\Users\Becky\Documents\VB2015\Chap01\Warren Solution\Warren Project\bin\Debug\Warren.xml
+C:\Users\Becky\Documents\VB2015\Chap01\Warren Solution\Warren Project\obj\Debug\Warren Project.vbprojResolveAssemblyReference.cache
+C:\Users\Becky\Documents\VB2015\Chap01\Warren Solution\Warren Project\obj\Debug\Warren_Project.frmMain.resources
+C:\Users\Becky\Documents\VB2015\Chap01\Warren Solution\Warren Project\obj\Debug\Warren_Project.Resources.resources
+C:\Users\Becky\Documents\VB2015\Chap01\Warren Solution\Warren Project\obj\Debug\Warren Project.vbproj.GenerateResource.Cache
+C:\Users\Becky\Documents\VB2015\Chap01\Warren Solution\Warren Project\obj\Debug\Warren.exe
+C:\Users\Becky\Documents\VB2015\Chap01\Warren Solution\Warren Project\obj\Debug\Warren.xml
+C:\Users\Becky\Documents\VB2015\Chap01\Warren Solution\Warren Project\obj\Debug\Warren.pdb
+C:\Users\Becky\Documents\VB2015\Chap01\Warren Solution C\Warren Project\bin\Debug\Warren.exe.config
+C:\Users\Becky\Documents\VB2015\Chap01\Warren Solution C\Warren Project\obj\Debug\Warren.exe
+C:\Users\Becky\Documents\VB2015\Chap01\Warren Solution C\Warren Project\obj\Debug\Warren.xml
+C:\Users\Becky\Documents\VB2015\Chap01\Warren Solution C\Warren Project\obj\Debug\Warren.pdb
+C:\Users\Becky\Documents\VB2015\Chap01\Warren Solution C\Warren Project\bin\Debug\Warren.exe
+C:\Users\Becky\Documents\VB2015\Chap01\Warren Solution C\Warren Project\bin\Debug\Warren.pdb
+C:\Users\Becky\Documents\VB2015\Chap01\Warren Solution C\Warren Project\bin\Debug\Warren.xml
+C:\Users\Becky\Documents\VB2015\Chap01\Warren Solution C\Warren Project\obj\Debug\Warren Project.vbprojResolveAssemblyReference.cache
+C:\Users\Becky\Documents\VB2015\Chap01\Warren Solution C\Warren Project\obj\Debug\Warren_Project.frmMain.resources
+C:\Users\Becky\Documents\VB2015\Chap01\Warren Solution C\Warren Project\obj\Debug\Warren_Project.Resources.resources
+C:\Users\Becky\Documents\VB2015\Chap01\Warren Solution C\Warren Project\obj\Debug\Warren Project.vbproj.GenerateResource.Cache
